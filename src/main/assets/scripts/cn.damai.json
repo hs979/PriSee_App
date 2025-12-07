@@ -1,0 +1,26 @@
+{
+  "steps": [
+    {
+      "bounds": "[0.828,0.875][0.917,0.921]",
+      "turnback": false
+    },
+    {
+      "bounds": "[0.528,0.054][0.658,0.091]",
+      "turnback": false
+    }
+  ],
+  "switches": [
+    {
+      "text": "隐私设置",
+      "turnback": false
+    },
+    {
+      "text": "为你推荐",
+      "turnback": false
+    },
+    {
+      "text": "个性化广告",
+      "turnback": true
+    }
+  ]
+}
