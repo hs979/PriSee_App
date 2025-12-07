@@ -234,7 +234,7 @@ android-privacy-assistant/
 │   │   │   │       ├── cn.damai.json
 │   │   │   │       ├── com.xingin.xhs.json
 │   │   │   │       └── ...
-│   │   │   ├── java/com/example/demo_323/
+│   │   │   ├── java/com/privacy/assistant/
 │   │   │   │   ├── MainActivity.java          # 主界面
 │   │   │   │   ├── AutoPrivacyService.java    # 无障碍服务核心
 │   │   │   │   ├── AppConfig.java             # 配置管理类
@@ -242,7 +242,6 @@ android-privacy-assistant/
 │   │   │   │   └── ...
 │   │   │   └── res/                           # 资源文件
 │   └── build.gradle.kts
-├── .gitignore
 ├── README.md                                   # 项目说明文档
 ├── SETUP.md                                    # 配置指南
 └── ...
