@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.demo_323"
+    namespace = "com.privacy.assistant"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.demo_323"
+        applicationId = "com.privacy.assistant"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
