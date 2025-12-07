@@ -1,0 +1,86 @@
+{
+  "steps": [
+    {
+      "bounds": "[0.0417,0.0604][0.1083,0.0904]",
+      "turnback": false
+    },
+    {
+      "bounds": "[0.489,0.802][0.717,0.895]",
+      "turnback": false
+    }
+  ],
+  "switches": [
+    {
+      "text": "隐私设置",
+      "turnback": false
+    },
+    {
+      "text": "在线状态",
+      "turnback": false
+    },
+    {
+      "text": "关闭：关闭在线状态",
+      "turnback": true
+    },
+    {
+      "text": "展示聊天标识",
+      "turnback": false
+    },
+    {
+      "text": "允许下载我的全部视频",
+      "turnback": false
+    },
+    {
+      "text": "我的收藏",
+      "turnback": false
+    },
+    {
+      "text": "公开我的收藏",
+      "turnback": true
+    },
+    {
+      "text": "我的评价",
+      "turnback": false
+    },
+    {
+      "text": "地点",
+      "turnback": true
+    },
+    {
+      "text": "找到我的方式",
+      "turnback": false
+    },
+    {
+      "text": "把我推荐给可能认识的人",
+      "turnback": false
+    },
+    {
+      "text": "把我展示在他人关系列表",
+      "turnback": false
+    },
+    {
+      "text": "在「附近」页隐藏我的笔记",
+      "turnback": false
+    },
+    {
+      "text": "在「识图搜同款」中隐藏我的笔记",
+      "turnback": true
+    },
+    {
+      "text": "关注与粉丝列表",
+      "turnback": false
+    },
+    {
+      "text": "隐藏我的关注列表",
+      "turnback": false
+    },
+    {
+      "text": "隐藏我的粉丝列表",
+      "turnback": true
+    },
+    {
+      "text": "给我推荐可能认识的人",
+      "turnback": false
+    }
+  ]
+}

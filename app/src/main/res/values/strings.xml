@@ -1,0 +1,5 @@
+<resources>
+    <string name="demo_323">隐私助手</string>
+    <string name="accessibility_service_name">隐私助手服务</string>
+    <string name="accessibility_service_desc">隐私管理助手，用于安全监控和权限管理</string>
+</resources>
